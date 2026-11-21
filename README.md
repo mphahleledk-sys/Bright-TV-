@@ -116,6 +116,4 @@ Increase subscriptions Improve customer retention Enhance customer engagement Re
 
 The recommendations focus on automation, customer intelligence, KPI monitoring, targeted promotions, and improved customer communication channels to drive sustainable subscription growth.
 
-👨‍💻 Author
 
-BrightTV Subscription Growth Analytics Project Business Intelligence • Customer Analytics • SQL • Power BI • Data Storytelling
